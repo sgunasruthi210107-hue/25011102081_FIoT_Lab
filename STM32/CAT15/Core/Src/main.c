@@ -136,7 +136,7 @@ int main(void)
 			MQTT_InitTypeDef_t mqttSetting;
 			mqttSetting.keepAlive = 60;
 			mqttSetting.connectFlag = CleanSession;
-			mqttSetting.clientID = "harini";
+			mqttSetting.clientID = "guna";
 			// 5. Handshake with the MQTT broker
 			MQTT_connectBroker(&mqttSetting);
 	
@@ -239,7 +239,7 @@ int main(void)
     {
         previousTime = HAL_GetTick();
 
-        MQTT_publishTopic("stm32/harini", mqttMessage, QoS0);
+        MQTT_publishTopic("stm32/guna", mqttMessage, QoS0);
     }
     /* USER CODE BEGIN 3 */
   }
