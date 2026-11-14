@@ -38,7 +38,7 @@ MQTT Subscriber
 
 ## Circuit Diagram
 
-![CAT13 Circuit Diagram](circuit.png)
+![Circuit Diagram](../circuit.png)
 
 ## Result
 Environmental data acquired from the BME sensor is successfully transmitted through MQTT and received by the subscriber.

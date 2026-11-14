@@ -38,7 +38,7 @@ Dashboard
 
 ## Circuit Diagram
 
-![CAT14 Circuit Diagram](circuit.png)
+![Circuit Diagram](../circuit.png)
 
 ## Result
 BME sensor readings are transmitted through MQTT, integrated with Node-RED, and visualized using dashboard components.

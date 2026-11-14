@@ -33,7 +33,7 @@ Environmental Readings
 
 ## Circuit Diagram
 
-![CAT12 Circuit Diagram](circuit.png)
+![Circuit Diagram](../circuit.png)
 
 ## Result
 Environmental parameters are successfully acquired from the BME sensor and displayed through the serial monitor.

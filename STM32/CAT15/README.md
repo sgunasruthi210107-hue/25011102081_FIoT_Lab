@@ -56,7 +56,7 @@ Pump / Irrigation Control
 ## Node-RED Implementation
 
 ### Node-RED Flow 1
-![Node Red 1](Node%20Red%201.jpeg)
+![Node Red 1](Node%20red%201.jpeg)
 
 ### Node-RED Flow 2
 ![Node Red 2](Node%20Red%202.jpeg)
